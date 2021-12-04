@@ -1,0 +1,21 @@
+<svg width="767.2" height="767.2" data-name="Layer 1" version="1.1" viewBox="0 0 767.2 767.2" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:25px;}.cls-2{fill:#fff;}</style>
+ </defs>
+ <title>icon</title>
+ <g fill="#fff">
+  <circle cx="383.6" cy="383.6" r="245.76" opacity=".99"/>
+  <path transform="matrix(.50393 0 0 .82446 707.92 11.974)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(0 -.50393 .82446 0 11.974 59.277)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(-.50393 0 0 -.82446 59.277 755.22)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(0 .50393 -.82446 0 755.22 707.92)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(.43642 -.25197 .41223 .714 478.66 -100.4)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(-.25197 -.43642 .714 -.41223 -100.4 288.54)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(-.43642 .25197 -.41223 -.714 288.54 867.6)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(.25197 .43642 -.714 .41223 867.6 478.66)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(.25197 -.43642 .714 .41223 223.92 -83.085)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(-.43642 -.25197 .41223 -.714 -83.085 543.27)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(-.25197 .43642 -.714 -.41223 543.27 850.28)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+  <path transform="matrix(.43642 .25197 -.41223 .714 850.28 223.92)" d="m-718.48 115.2 74.895-129.72 74.895 129.72z" opacity=".99"/>
+ </g>
+</svg>

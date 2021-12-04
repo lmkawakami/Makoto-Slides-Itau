@@ -3383,16 +3383,28 @@ Features & Clients List
 flexblock.steps
 ============================================= */
 .steps li:nth-child(1) {
-  background-color: #e8eef7; }
+  background-color: hsl(67, 10%, 90%);}
 
 .steps li:nth-child(2) {
-  background-color: #dde5f3; }
+  background-color: hsl(67, 10%, 85%); }
 
 .steps li:nth-child(3) {
-  background-color: #cdd8ec; }
+  background-color: hsl(67, 10%, 80%); }
 
 .steps li:nth-child(4) {
-  background-color: #bbcdec; }
+  background-color: hsl(67, 10%, 75%); }
+
+.dark-steps li:nth-child(1) {
+  background-color: #555555;}
+
+.dark-steps li:nth-child(2) {
+  background-color: #505050;}
+
+.dark-steps li:nth-child(3) {
+  background-color: #454545;}
+
+.dark-steps li:nth-child(4) {
+  background-color: #404040;}
 
 .process {
   border-bottom: 15px solid transparent;
@@ -3400,17 +3412,31 @@ flexblock.steps
 
 .steps li:hover,
 .steps.blink li:hover > a {
-  background-color: #b8cef7; }
+  background-color: hsl(67, 10%, 65%); }
+
+.dark-steps li:hover,
+.dark-steps.blink li:hover > a {
+  background-color: #000000; }
 
 @media (min-width: 1024px) {
   .process.step-2 {
-    border-left-color: #e8eef7; }
+    border-left-color: hsl(67, 10%, 90%); }
   .process.step-3 {
-    border-left-color: #dde5f3; }
+    border-left-color: hsl(67, 10%, 85%); }
   .process.step-4 {
-    border-left-color: #cdd8ec; }
+    border-left-color: hsl(67, 10%, 80%); }
   .steps li:hover + li [class*='step-'] {
-    border-left-color: #b8cef7; } }
+    border-left-color: hsl(67, 10%, 65%); } }
+
+@media (min-width: 1024px) {
+  .dark-steps .process.step-2 {
+    border-left-color: #555555; }
+  .dark-steps .process.step-3 {
+    border-left-color: #505050; }
+  .dark-steps .process.step-4 {
+    border-left-color: #454545; }
+  .dark-steps li:hover + li [class*='step-'] {
+    border-left-color: #000000; } }
 
 /*=========================================================
 Items: You can use for settings, drag&drop, close/delete...
