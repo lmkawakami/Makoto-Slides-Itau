@@ -8,7 +8,7 @@ const lightThemeIconLink = "https://lmkawakami.github.io/Makoto-Slides-Itau/stat
 const bootcampLogoLink = "https://lmkawakami.github.io/Makoto-Slides-Itau/static/media/bootcamp-logo.svg"
 const bootcampDarkLogoLink = "https://lmkawakami.github.io/Makoto-Slides-Itau/static/media/bootcamp-logo-dark-theme.svg"
 
-let theme = 'light'
+let theme
 const changeTheme = ()=>{
   const newTheme = theme=='light'?'dark':'light'
   theme = newTheme
@@ -59,8 +59,8 @@ const main = () => {
   
   getElements()
   themeButton.addEventListener('click', () => changeTheme())
-
   applyTheme()
+
 }
 
 main()
